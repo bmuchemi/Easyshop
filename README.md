@@ -43,4 +43,4 @@
 Say _hi_ 👋 on:
 
 - [Whatsapp](wa.me/+254774811916)
-- [Email](bmuchemi55@gmail.com)
+- [Email](mailto:bmuchemi55@gmail.com?)
